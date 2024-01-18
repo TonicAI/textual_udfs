@@ -1,0 +1,1 @@
+Want Textual UDF support on BigQuery?  No problem.  File an issue on this repo letting us know!
